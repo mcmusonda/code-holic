@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Animals
 
 ## Mammals
@@ -13,3 +14,6 @@
 - Chicken
 - Lambs
 - Ducks
+=======
+# code-holic
+>>>>>>> 94707467136fad24f41577e48bb1a46934136c43
